@@ -1,0 +1,9 @@
+{
+  "name": "Nison Candlestick Trader",
+  "short_name": "NisonTrader",
+  "description": "Standalone Steve Nison Candlestick Pattern & Dynamic Trailing BTC Scalper",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090c12",
+  "theme_color": "#090c12"
+}

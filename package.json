@@ -1,0 +1,15 @@
+{
+  "name": "nison-candlestick-trader",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Completely standalone Nison Candlestick Pattern & Dynamic Trailing BTC Auto-Trader",
+  "scripts": {
+    "cap:add:android": "npx cap add android",
+    "cap:sync": "npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  }
+}

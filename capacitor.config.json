@@ -1,0 +1,9 @@
+{
+  "appId": "com.nison.candlesticktrader",
+  "appName": "Nison Candlestick Trader",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
